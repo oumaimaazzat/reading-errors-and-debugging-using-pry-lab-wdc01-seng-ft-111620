@@ -7,5 +7,5 @@ end
 
 def play_game(player2)
    binding.pry
-   return "Rocky is better than Bullwinkle"
+   return "#{player2} is better than #{player1}"
 end
